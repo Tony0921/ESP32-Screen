@@ -1,0 +1,144 @@
+{
+  "uuid": "52e7e0cca4f2923889d07c44b6e1c7d7",
+  "path": "Offline/ESP32%20Screen",
+  "name": "ESP32 Screen",
+  "content": "",
+  "created_at": "2025-04-23 22:53:35",
+  "updated_at": "2025-05-22 19:47:40",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "f3c768631086bf1a495c74847742e7e4",
+      "title": "ESP32_Screen",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "e15ff6087d4b4f7589e91e26736e8dc2": 1,
+        "88c073d9682a4ca7995741b6087e5fca": 1,
+        "e678037c2af64592a7b53465c313d928": 3
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "XH2.54-3PIN",
+          3,
+          "XH2.54-3PIN_TH",
+          "C1,C2,C3",
+          {
+            "Manufacturer Part": "XH2.54-3PIN",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900014913"
+          }
+        ],
+        [
+          "FFC05001-08SBA124W5M",
+          1,
+          "FFC-SMD_FFC05001-08SBA124W5M",
+          "FPC2",
+          {
+            "Manufacturer Part": "FFC05001-08SBA124W5M",
+            "Manufacturer": "TXGA(特思嘉)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C456419"
+          }
+        ],
+        [
+          "esp32s3_supermini_minimal_smd",
+          1,
+          "ESP32_S3_SUPERMINI_MINIMAL_SMD",
+          "U2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ]
+      ],
+      "updateTime": 1746006650,
+      "createTime": 1745420016,
+      "histories": [],
+      "created_at": "2025-04-23 22:53:36",
+      "updated_at": "2025-04-30 17:50:50"
+    },
+    {
+      "uuid": "0fdb422b47045b1f1aac93f2f75fefe1",
+      "puuid": "52e7e0cca4f2923889d07c44b6e1c7d7",
+      "title": "PCB_ESP32_Screen",
+      "filename": "PCB_ESP32_Screen.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "0bcdf0147417409ba40fc06b5694c9c6": 1,
+        "5ed7f5744d21437c88c6a18b1194a8f4": 3,
+        "1e876877be224fc9bb5e7340b9c6ec27": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "XH2.54-3PIN",
+          3,
+          "XH2.54-3PIN_TH",
+          "C1,C2,C3",
+          {
+            "Manufacturer Part": "XH2.54-3PIN",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900014913"
+          }
+        ],
+        [
+          "FFC05001-08SBA124W5M",
+          1,
+          "FFC-SMD_FFC05001-08SBA124W5M",
+          "FPC2",
+          {
+            "Manufacturer Part": "FFC05001-08SBA124W5M",
+            "Manufacturer": "TXGA(特思嘉)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C456419"
+          }
+        ],
+        [
+          "esp32s3_supermini_minimal_smd",
+          1,
+          "ESP32_S3_SUPERMINI_MINIMAL_SMD",
+          "U2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ]
+      ],
+      "updateTime": 1746037097,
+      "createTime": 1745423542,
+      "histories": [],
+      "created_at": "2025-04-23 23:52:22",
+      "updated_at": "2025-05-01 02:18:17"
+    }
+  ],
+  "sort": [],
+  "title": "ESP32 Screen",
+  "foldername": "ESP32 Screen",
+  "schfilename": "ESP32 Screen.json",
+  "schfilemtime": 1747914460665
+}
