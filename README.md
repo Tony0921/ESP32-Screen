@@ -6,7 +6,7 @@ This is a desktop project using an ESP32 and a small circular display. It featur
 
 **Demo:**
 
-<!-- [![](https://markdown-videos-api.jorgenkh.no/youtube/fua61k692V0)](https://youtu.be/fua61k692V0) -->
+[![](https://markdown-videos-api.jorgenkh.no/youtube/fua61k692V0)](https://youtu.be/fua61k692V0)
 
 ---
 
